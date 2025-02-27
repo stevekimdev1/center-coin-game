@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "AmMIy8VL2CI=",
+  "dgSpecHash": "lQIht10n41Y=",
   "success": true,
-  "projectFilePath": "F:\\텔레그램 봇에 메시지 전송\\Program\\Program\\Program.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\텔레그램 봇에 메시지 전송\\텔레그램 그룹에 붓 추가 그룹 메세지 Ver 2\\텔레그램 그룹에 붓 추가 그룹 메세지 Ver 2\\텔레그램 그룹에 붓 추가 그룹 메세지 Ver 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yjy30\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\yjy30\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\yjy30\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\yjy30\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\yjy30\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\yjy30\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\yjy30\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\yjy30\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\yjy30\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\yjy30\\.nuget\\packages\\telegram.bot\\22.4.3\\telegram.bot.22.4.3.nupkg.sha512"
+  ],
   "logs": []
 }
